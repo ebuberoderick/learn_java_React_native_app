@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.learn_java.appforproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
