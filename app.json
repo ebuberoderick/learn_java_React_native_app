@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "learn java",
+    "slug": "snack-508795bc-1725-4d6a-95d9-47e20844b425",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/loader1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4c1d95"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "661e0d53-0d9f-4923-9a53-6ccde2eb8e49"
+      }
+    }
+  }
+}
